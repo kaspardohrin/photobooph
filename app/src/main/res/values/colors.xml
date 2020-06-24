@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light application colors. -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="buttonColor">#3F51B5</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="tintColor">#FFFFFF</color>
+    <color name="textColor">#000000</color>
+    <color name="backGroundColor">#FFFFFF</color>
+
+    <!-- Night application colors. -->
+    <color name="colorPrimaryNight">#2E2E2E</color>
+    <color name="colorPrimaryDarkNight">#000000</color>
+    <color name="colorAccentNight">#2E2E2E</color>
+    <color name="buttonColorNight">#2E2E2E</color>
+    <color name="buttonTextColorNight">#FFFFFF</color>
+    <color name="tintColorNight">#000000</color>
+    <color name="textColorNight">#DFDFDF</color>
+    <color name="backGroundColorNight">#777777</color>
+</resources>

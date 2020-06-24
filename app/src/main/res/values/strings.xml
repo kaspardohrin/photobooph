@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">photobooph</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_album">Album</string>
+    <string name="action_home">Home</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_save">Save</string>
+    <string name="image_description">Canvas</string>
+
+    <string name="pref_night_mode_title">Night/Dark Mode</string>
+    <string name="pref_night_mode">Toggle between light and dark theme</string>
+
+    <string name="pref_language_title">Dutch</string>
+    <string name="pref_language">Change the apps language to Dutch</string>
+    <string name="toast">Image saved!</string>
+
+    <string name="app_description_title">WELCOME TO PHOTOBOOPH!</string>
+    <string name="app_description">This app makes it possible to gain inspiration,
+        by randomly displaying pictures. These pictures can also be saved,
+        so that you can look at the pictures that inspired you at a different time!
+
+        To start using PhotoBooph, simply press start to load the first picture!
+    </string>
+</resources>

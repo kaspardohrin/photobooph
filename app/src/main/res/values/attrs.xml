@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ds">
+        <!-- Light attribute colors. -->
+        <attr name="backGroundColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="tintColor" format="color"/>
+        <attr name="buttonColor" format="color"/>
+        <attr name="buttonTextColor" format="color"/>
+
+
+        <!-- Dark attribute colors. -->
+        <attr name="backGroundColorNight" format="color"/>
+        <attr name="textColorNight" format="color"/>
+        <attr name="tintColorNight" format="color"/>
+        <attr name="buttonColorNight" format="color"/>
+        <attr name="buttonTextColorNight" format="color"/>
+    </declare-styleable>
+</resources>
